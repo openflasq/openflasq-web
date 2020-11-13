@@ -8,15 +8,9 @@ a.txt
 web3js/package.json
 .htaccess
 *.pptx
-mathieu/
 Node_ipfs/
 *.cmd
-courses/.figma
-courses/.figmadocument
 lib/github/*
-
-*/*.off/*
-
 
 # Prerequisites
 *.d
@@ -64,3 +58,5 @@ wifiSettings.h
 
 # Local History for Visual Studio Code
 .history/
+*/*.off/*
+
