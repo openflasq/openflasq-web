@@ -9,9 +9,6 @@ html.removeAttribute("data-wf-site")
 html.removeAttribute("class")
 
 delete window.$   // delete traces from webflow
-delete window.WebFont
-delete window.Webflow
-delete window.GoogleAnalyticsObject
 delete window.ga
 delete window.jQuery
 delete window.google_tag_data
@@ -20,7 +17,6 @@ delete window.gaplugins
 delete window.gaGlobal
 delete window.gaData
 delete window.datalayer
-delete window.google_optimize
 console.log(window)
 
 // http://gpersoon.com/koios/lib/bootstrap/test.html
@@ -64,7 +60,7 @@ async function start(ghpath) {
 		var cidfile=last;
 		switch (last) {
 			case "flasq": 	 						 
-			case "QmTXH9B4CmfCRzboGaPyWHJatd8JdVdVY3y2HHPdA1au1V": 	 
+			case "a0b50896-3d69-5f4c-bb57-0f5d3f689c91": 	 
 			case "":
 			cidlocation=prod;cidfile="flasq";break;
 		}
