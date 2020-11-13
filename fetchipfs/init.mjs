@@ -109,5 +109,5 @@ async function start(ghpath) {
 		todelete[i].parentNode.removeChild(todelete[i])
 }
 
-start('https://openflasq.github.io/openflasq.github.io/');
+start('https://openflasq.github.io/');
 
