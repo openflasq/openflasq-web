@@ -53,7 +53,7 @@ async function start(ghpath) {
 		var cidfile="flask";
 		switch (last) {
 			case "flasq": 	 						 
-			case "": 	 
+			case "QmTkAaVBaF6QQAihCtu7GajRzMPYnBJSknCGRaPJqe57Np": 	 
 			case "":
 			cidlocation=prod;cidfile="flasq";break;
 		}
