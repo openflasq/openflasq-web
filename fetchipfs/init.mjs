@@ -3,16 +3,9 @@ console.log("This is init.mjs, located at /init.mjs")
  
 var html=document.getElementsByTagName("html")[0]
 console.log("Cleaned html");
-html.removeAttribute("data-wf-domain") // remove webflow stuff
-html.removeAttribute("data-wf-page")
-html.removeAttribute("data-wf-site")
 html.removeAttribute("class")
 
-delete window.$   // delete traces from webflow
-delete window.ga
-delete window.jQuery
-delete window.google_tag_data
-delete window.google_tag_manager
+
 delete window.gaplugins
 delete window.gaGlobal
 delete window.gaData
@@ -60,7 +53,7 @@ async function start(ghpath) {
 		var cidfile=last;
 		switch (last) {
 			case "flasq": 	 						 
-			case "a0b50896-3d69-5f4c-bb57-0f5d3f689c91": 	 
+			case "": 	 
 			case "":
 			cidlocation=prod;cidfile="flasq";break;
 		}
