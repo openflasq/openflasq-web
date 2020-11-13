@@ -1,0 +1,6 @@
+{
+"scripts": {
+  "figma:export-components": "figma-export components fzYhvQpqwhZDUImRz431Qo -O @figma-export/output-components-as-svg",
+  "figma:export-styles": "figma-export styles fzYhvQpqwhZDUImRz431Qo -O @figma-export/output-styles-as-sass",
+    }
+  }

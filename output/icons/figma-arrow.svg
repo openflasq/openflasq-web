@@ -1,0 +1,13 @@
+<svg width="41" height="8" viewBox="0 0 41 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="figma-arrow">
+<path id="Arrow" d="M40.8517 4.08536C41.0494 3.88769 41.0494 3.5672 40.8517 3.36952L37.6305 0.148258C37.4328 -0.0494148 37.1123 -0.0494148 36.9146 0.148258C36.717 0.345931 36.717 0.666422 36.9146 0.864095L39.778 3.72744L36.9146 6.59079C36.717 6.78846 36.717 7.10895 36.9146 7.30662C37.1123 7.5043 37.4328 7.5043 37.6305 7.30662L40.8517 4.08536ZM0 4.23361H40.4938V3.22127H0V4.23361Z" fill="url(#paint0_linear)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="0" y1="4.23361" x2="40.4938" y2="4.23363" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F24E1E"/>
+<stop offset="0.34375" stop-color="#B859FF"/>
+<stop offset="0.677083" stop-color="#1ABCFE"/>
+<stop offset="1" stop-color="#0ACF83"/>
+</linearGradient>
+</defs>
+</svg>
