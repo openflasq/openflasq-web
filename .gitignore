@@ -1,0 +1,66 @@
+node_modules/
+package-lock.json
+*.bak
+.apikey*
+old/
+*.bin
+a.txt
+web3js/package.json
+.htaccess
+*.pptx
+mathieu/
+Node_ipfs/
+*.cmd
+courses/.figma
+courses/.figmadocument
+lib/github/*
+
+*/*.off/*
+
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Sensible data
+wifiSettings.h
+
+# VSCODE
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
