@@ -50,10 +50,10 @@ async function start(ghpath) {
 	if (!cid) {	
 		var prod=ghpath + 'fetchipfs';
 		var cidlocation=(beforelast=="test")?test:prod;
-		var cidfile="flask";
+		var cidfile="flasq";
 		switch (last) {
 			case "flasq": 	 						 
-			case "QmSpNPcAXeihreYS8VGvFN2GhuThgWiy6GnydxnE43Kogj": 	 
+			case "": 	 
 			case "":
 			cidlocation=prod;cidfile="flasq";break;
 		}
